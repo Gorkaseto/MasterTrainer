@@ -563,6 +563,65 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1045122728
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1045122730}
+  - component: {fileID: 1045122729}
+  m_Layer: 0
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!223 &1045122729
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045122728}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1045122730
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045122728}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 1.902}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 6.035954, y: 0.416}
+  m_SizeDelta: {x: 1920, y: 1080}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1055398919
 GameObject:
   m_ObjectHideFlags: 0
@@ -598,6 +657,21 @@ MonoBehaviour:
   blue: []
   red: []
   yellow: []
+  eventCardDiscards: []
+  itemCardDiscards: []
+  takeItem1: {fileID: 1798413683241013612, guid: 6ae518ddd3417ae41981920c020773b5,
+    type: 3}
+  takeItem2: {fileID: 8432441884573562855, guid: a83e098d248037e41bc573b58c93df39,
+    type: 3}
+  takeItem3: {fileID: 9187560658955573434, guid: 0ce78d8d6ee9e184b8398570d5175ccf,
+    type: 3}
+  strangeDungeon: {fileID: 7461576782658223511, guid: db572aec3de96a74a9d79be6fda7e0bf,
+    type: 3}
+  chance: {fileID: 7334056481726367032, guid: a2d2d99d56863274c9afc11370c79fb9, type: 3}
+  pokeCenter: {fileID: 1527897249993902070, guid: 1e33377bc0041b9429e1df76488c3082,
+    type: 3}
+  fight: {fileID: 3466472780444658154, guid: 489ac1b129eab734a9477f0dadd0cc3f, type: 3}
+  trade: {fileID: 6445342113460105056, guid: 17ebc51b16de37b478de4301e6638e90, type: 3}
 --- !u!4 &1055398921
 Transform:
   m_ObjectHideFlags: 0
@@ -915,3 +989,4 @@ SceneRoots:
   - {fileID: 1163612436}
   - {fileID: 817042060}
   - {fileID: 756188786}
+  - {fileID: 1045122730}

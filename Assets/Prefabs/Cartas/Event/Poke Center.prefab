@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8907607310954711218
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499349138020674237, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3384091528851384861, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_text
+      value: "Revive any one\n of your knocked out\n Pok\xE9mon. Discard\n card after
+        use."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3384091528851384861, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 0.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3384091528851384861, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8e8c93e049c68b3469f14247d153db1e,
+        type: 2}
+    - target: {fileID: 3384091528851384861, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 0.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3384091528851384861, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 6799957699418091884, guid: 8e8c93e049c68b3469f14247d153db1e,
+        type: 2}
+    - target: {fileID: 3384091528851384861, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100823375312996417, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_text
+      value: "Pok\xE9mon Center"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100823375312996417, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8e8c93e049c68b3469f14247d153db1e,
+        type: 2}
+    - target: {fileID: 7100823375312996417, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 6799957699418091884, guid: 8e8c93e049c68b3469f14247d153db1e,
+        type: 2}
+    - target: {fileID: 7974190297251712836, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_Name
+      value: Poke Center
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393426550452595383, guid: 9e94721865b1d3240a6063c53328f9d8,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e237c589d9b107d4abf4a2d01da30f37,
+        type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 2188165139670629664, guid: 9e94721865b1d3240a6063c53328f9d8, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9e94721865b1d3240a6063c53328f9d8, type: 3}
